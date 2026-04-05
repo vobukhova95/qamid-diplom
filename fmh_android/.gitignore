@@ -4,6 +4,7 @@ HELP.md
 google-services.json
 build/
 app/release/
+.DS_Store
 
 ### STS ###
 .apt_generated
@@ -48,3 +49,4 @@ captures/
 
 ### Gradle ###
 !gradle/wrapper/gradle-wrapper.jar
+

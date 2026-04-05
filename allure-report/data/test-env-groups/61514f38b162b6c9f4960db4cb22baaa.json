@@ -1,0 +1,1 @@
+{"id":"61514f38b162b6c9f4960db4cb22baaa","fullName":"ru.iteco.fmhandroid.ui.tests.AboutPageTest.shouldNotNavigateToAboutPageFromNewsPageDueToInactiveLink","name":"Невозможность перехода в \"О приложении\" со страницы \"Новости\" (неактивная ссылка)","status":"broken","testResultsByEnv":{"default":"bc2e633ff84b0d19679e9f31910fa4cf"}}

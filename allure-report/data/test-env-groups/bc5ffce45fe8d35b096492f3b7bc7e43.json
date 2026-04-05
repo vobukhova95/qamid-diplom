@@ -1,0 +1,1 @@
+{"id":"bc5ffce45fe8d35b096492f3b7bc7e43","fullName":"ru.iteco.fmhandroid.ui.tests.AboutPageTest.shouldAttemptToOpenTermsOfUseLink","name":"Переход по ссылке пользовательского соглашения (без фактической загрузки страницы)","status":"broken","testResultsByEnv":{"default":"c81b56204b1a0797a9c2320096b79556"}}

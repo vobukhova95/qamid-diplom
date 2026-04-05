@@ -1,0 +1,1 @@
+{"id":"ba0ada2f862f619163d19c82ccdd57ef","fullName":"ru.iteco.fmhandroid.ui.tests.CreateNewsTest.createNewsWithEmptyFieldsShouldShowError","name":"Создание новости с пустыми полями вызывает ошибку","status":"broken","testResultsByEnv":{"default":"a2d9735b6bfa0ff9f324c522fb85a5be"}}

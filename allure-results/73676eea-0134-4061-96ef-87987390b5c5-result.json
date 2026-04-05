@@ -1,0 +1,161 @@
+{
+    "name": "Переход к политике конфиденциальности по ссылке. Ссылка кликабельна, но страница фактически не загружается",
+    "start": 1775291269486,
+    "stop": 1775291277728,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "failed",
+    "statusDetails": {
+        "message": "Wanted to match 1 intents. Actually matched 0 intents.\n\nIntentMatcher: has data: is <https://vhospice.org/#/privacy-policy>\n\nMatched intents:[]\n\nRecorded intents:\n-Intent { act=android.intent.action.VIEW dat=https://vhospice.org/... (has extras) } handling packages:[[]], extras:[Bundle[{com.android.browser.application_id=ru.iteco.fmhandroid}]])",
+        "trace": "junit.framework.AssertionFailedError: Wanted to match 1 intents. Actually matched 0 intents.\n\nIntentMatcher: has data: is <https://vhospice.org/#/privacy-policy>\n\nMatched intents:[]\n\nRecorded intents:\n-Intent { act=android.intent.action.VIEW dat=https://vhospice.org/... (has extras) } handling packages:[[]], extras:[Bundle[{com.android.browser.application_id=ru.iteco.fmhandroid}]])\n\tat junit.framework.Assert.fail(Assert.java:50)\n\tat androidx.test.espresso.intent.VerificationModes$Times.verify(VerificationModes.java:80)\n\tat androidx.test.espresso.intent.Intents.internalIntended(Intents.java:344)\n\tat androidx.test.espresso.intent.Intents$3.run(Intents.java:202)\n\tat androidx.test.espresso.intent.Intents$PropogatingRunnable.run(Intents.java:222)\n\tat java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:462)\n\tat java.util.concurrent.FutureTask.run(FutureTask.java:266)\n\tat android.app.Instrumentation$SyncRunnable.run(Instrumentation.java:2266)\n\tat android.os.Handler.handleCallback(Handler.java:938)\n\tat android.os.Handler.dispatchMessage(Handler.java:99)\n\tat android.os.Looper.loopOnce(Looper.java:201)\n\tat android.os.Looper.loop(Looper.java:288)\n\tat android.app.ActivityThread.main(ActivityThread.java:7839)\n\tat java.lang.reflect.Method.invoke(Native Method)\n\tat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)\n\tat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)\n"
+    },
+    "steps": [
+        {
+            "name": "Загрузка приложения",
+            "start": 1775291269912,
+            "stop": 1775291269912,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Загрузка главной страницы",
+            "start": 1775291271033,
+            "stop": 1775291271033,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в раздел \"О приложении\"",
+            "start": 1775291275388,
+            "stop": 1775291275388,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Открыть меню",
+            "start": 1775291275388,
+            "stop": 1775291275388,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Переход в раздел \"О приложении\"",
+            "start": 1775291275957,
+            "stop": 1775291275957,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Клик по ссылке \"Политика конфиденциальности\"",
+            "start": 1775291276259,
+            "stop": 1775291276260,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+        {
+            "source": "0941e6f2-981f-47b0-b014-45a4da5723ba-attachment.png",
+            "name": "1775291269487",
+            "type": "image/png"
+        }
+    ],
+    "parameters": [
+    ],
+    "uuid": "73676eea-0134-4061-96ef-87987390b5c5",
+    "historyId": "e6032100c4f18e37d7e562ae5633c233",
+    "fullName": "ru.iteco.fmhandroid.ui.tests.AboutPageTest.shouldAttemptToOpenPrivacyPolicyLink",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "shouldAttemptToOpenPrivacyPolicyLink"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.tests.AboutPageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: io.qameta.allure.android.runners.AllureAndroidJUnitRunner(83)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "feature",
+            "value": "Тесты по странице \"О приложении\""
+        }
+    ]
+}

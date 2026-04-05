@@ -1,0 +1,1 @@
+{"id":"43e05f16f9f3c06397ac46bb5ed3bafa","fullName":"ru.iteco.fmhandroid.ui.tests.CreateNewsTest.cancelNewsCreationShouldReturnToControlPanel","name":"Отмена создания новости возвращает на панель управления","status":"passed","testResultsByEnv":{"default":"d54dd1a6242093a9b40e7a944ce7587f"}}

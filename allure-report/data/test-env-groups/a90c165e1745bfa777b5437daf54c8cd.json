@@ -1,0 +1,1 @@
+{"id":"a90c165e1745bfa777b5437daf54c8cd","fullName":"ru.iteco.fmhandroid.ui.tests.AboutPageTest.shouldAttemptToOpenPrivacyPolicyLink","name":"Переход к политике конфиденциальности по ссылке. Ссылка кликабельна, но страница фактически не загружается","status":"failed","testResultsByEnv":{"default":"82b7643a7faebaace3e4655ebdfb4928"}}

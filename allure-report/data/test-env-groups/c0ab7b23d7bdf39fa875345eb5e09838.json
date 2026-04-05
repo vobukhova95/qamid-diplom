@@ -1,0 +1,1 @@
+{"id":"c0ab7b23d7bdf39fa875345eb5e09838","fullName":"ru.iteco.fmhandroid.ui.tests.AuthorizationTest.shouldShowErrorForEmptyCredentials","name":"Ошибка входа при пустом логине и пароле","status":"broken","testResultsByEnv":{"default":"1bb30652f6f1cc92a9e6c82a5f4e0d5b"}}

@@ -29,10 +29,17 @@
 
 ## Запуск автотестов:
 Убедитесь, что у вас установлены JDK и Android Studio.
+
 В Android Studio, перейдите в Tools > SDK Manager.
+
 Создайте эмулятор Pixel 5 с API 29 через AVD Manager.
+
 На локальном компьютере откройте терминал.
+
 Склонируйте репозиторий командой git clone
+
 Откройте проект в Android Studio.
+
 Запустите приложение app на эмуляторе Pixel 5 API 29.
+
 Запустите тесты из командной строки./gradlew connectedAndroidTest.

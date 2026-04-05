@@ -5,10 +5,16 @@
 [Ссылка на задание](https://github.com/netology-code/qamid-diplom)
 
 ## Документация
--[План тестирования]()
--[Чек-лист]()
--[Тест-кейсы]()
--[Отчет о тестировании]()
+-[План тестирования](https://github.com/vobukhova95/qamid-diplom/blob/main/Plan.md)
+
+
+-[Чек-лист](https://github.com/vobukhova95/qamid-diplom/blob/main/Check.xlsx)
+
+
+-[Тест-кейсы](https://github.com/vobukhova95/qamid-diplom/blob/main/Cases.xlsx)
+
+
+-[Отчет о тестировании](https://github.com/vobukhova95/qamid-diplom/blob/main/Result.md)
 
 
 # Запуск приложения и тестов 
